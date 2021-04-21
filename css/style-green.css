@@ -1258,7 +1258,7 @@ footer .credits a {
   }
 }
 
-@media (max-width: 768px) {
+	(max-width: 768px) {
   .back-to-top {
     bottom: 15px;
   }
